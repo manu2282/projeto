@@ -33,6 +33,7 @@ li{
 }
 li a{
     text-decoration: none;
+    color: white;
 }
 a{
     float: left;
@@ -50,7 +51,7 @@ p{
 }
 
 header{
-    background-color: palevioletred;
+    background-color: gray;
     align-self: flex-end;
     width: 100%;
     text-align: right;
@@ -65,7 +66,7 @@ header{
         background-color: white;
     }
     header{
-        background-color: greenyellow;
+        background-color: gray;
         padding: 40px;
         display: block;
     }
